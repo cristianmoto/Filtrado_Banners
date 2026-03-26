@@ -1,0 +1,65 @@
+CICLO,TIPO DE BANNER,NRO DE ORDEN,NOMBRE EN GSP,MARCA,WEB / APP,PUBLICADO POR,SEGMENTADO POR,CODIGO GOOGLE ANALITYCS,URL
+3,INF,2,REGALO MARCA_A INF,MARCA_A,WEB,Ciclo,Sin segmentaci������������������n,de5a4a15-32c2-4d40-afbe-4174bbad4add,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/sgilight/BANNER_
+3,INF,2,REGALO MARCA_A INF,MARCA_A,APP,Ciclo,Sin segmentaci������������������n,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/sgilight/BANNER_
+3,INF,2,REGALO MARCA_B INF,MARCA_B,WEB,Ciclo,Sin segmentaci������������������n,c77fd01f-3f61-4b67-a219-29d1cd3ade06,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/sgilight/BANNER_
+3,INF,2,REGALO MARCA_B INF,MARCA_B,APP,Ciclo,Sin segmentaci������������������n,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/sgilight/BANNER_
+3,INF,1,FLASH SALE MARCA_A 11-02,MARCA_A,WEB,Fecha,Sin segmentaci������������������n,c37b2c38-e074-495c-8c4e-4026dc3ef9f1,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/sgi
+3,INF,1,FLASH SALE MARCA_A 11-02,MARCA_A,APP,Fecha,Sin segmentaci������������������n,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/sgiligh
+3,INF,1,FLASH SALE MARCA_B 11-02,MARCA_B,WEB,Fecha,Sin segmentaci������������������n,a04303d5-59e7-4756-a109-6df5fc2312c7,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/s
+3,INF,1,FLASH SALE MARCA_B 11-02,MARCA_B,APP,Fecha,Sin segmentaci������������������n,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/sgili
+4,INF,1,Showroom C04 MARCA_A,MARCA_A,WEB,Fecha,Por Gerencia,f6b82f0c-7c22-4538-aa27-cbeae563b85b,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-SHBrand.jpg
+4,INF,1,Showroom C04 MARCA_A,MARCA_A,APP,Fecha,Por Gerencia,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-SHBrand.jpg
+4,INF,1,Showroom C04 MARCA_B,MARCA_B,WEB,Fecha,Por Gerencia,cd31f837-daa9-48b7-adc7-a9e5116d68c2,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-SHBrand2.jpg
+4,INF,1,Showroom C04 MARCA_B,MARCA_B,APP,Fecha,Por Gerencia,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-SHBrand2.jpg
+4,INF,2,INFORMATIVO Brand1 c4,MARCA_A,WEB,Ciclo,Sin segmentaci������������������n,7f920673-fde7-4d13-8177-83acc0aad73f,https://gspstatic.empresa.com/STATIC
+4,INF,2,INFORMATIVO Brand1 c4,MARCA_A,APP,Ciclo,Sin segmentaci������������������n,,https://gspstatic.empresa.com/STATIC
+4,PROD,3,MANTENETE ACTIVA Brand1 c4 ,MARCA_A,WEB,Ciclo,CdC - Plata-,a091a5a0-181d-4f1a-81b1-f8b891384a7c,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-2.jpg
+4,PROD,3,MANTENETE ACTIVA Brand1 c4 ,MARCA_A,APP,Ciclo,CdC - Plata-,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-2.jpg
+4,PROD,4,IMBATIBLE CB Brand1 c4,MARCA_A,WEB,Ciclo,CB,4e47b85a-845a-4be7-b091-6d8cae14f175,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-3.jpg
+4,PROD,4,IMBATIBLE CB Brand1 c4,MARCA_A,APP,Ciclo,CB,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-3.jpg
+4,PROD,5,IMBATIBLE PLATA- Brand1 c4,MARCA_A,WEB,Ciclo,CdC -Plata-,b1dde1ee-cb01-4e05-b9be-dd9c3b012a51,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-4.jpg
+4,PROD,5,IMBATIBLE PLATA- Brand1 c4,MARCA_A,APP,Ciclo,CdC -Plata-,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-4.jpg
+4,PROD,5,IMBATIBLE ORO Brand1 c4 ,MARCA_A,WEB,Ciclo,CdC - Oro,fcfd99a5-865a-41ad-ba54-8789b428fa02,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-5.jpg
+4,PROD,5,IMBATIBLE ORO Brand1 c4 ,MARCA_A,APP,Ciclo,CdC - Oro,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-5.jpg
+4,PROD,5,IMBATIBLE ZAFIRO+ Brand1,MARCA_A,WEB,Ciclo,CdC - Zafiro+,79cea878-5612-46e1-bfec-a0963db1092b,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-6.jpg
+4,PROD,5,IMBATIBLE ZAFIRO+ Brand1,MARCA_A,APP,Ciclo,CdC - Zafiro+,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-6.jpg
+4,INF,2,INFORMATIVO Brand2 c4 ,MARCA_B,WEB,Ciclo,Sin segmentaci������������������n,31bb81ae-0ca0-4f5f-a401-fbf636807439,https://gspstatic.empresa.com/STATIC/
+4,INF,2,INFORMATIVO Brand2 c4 ,MARCA_B,APP,Ciclo,Sin segmentaci������������������n,,https://gspstatic.empresa.com/STATIC/
+4,PROD,3,MANTENETE ACTIVA Brand2 c4,MARCA_B,WEB,Ciclo,CdC -Plata-,5837b5d3-8e5b-40b4-807a-9d9d0e871d5a,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-12.jpg
+4,PROD,3,MANTENETE ACTIVA Brand2 c4,MARCA_B,APP,Ciclo,CdC -Plata-,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-12.jpg
+4,PROD,4,IMBATIBLE CB Brand2 c4,MARCA_B,WEB ,Ciclo,CB,b8a49c30-661b-4228-b86b-047251857b31,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-8.jpg
+4,PROD,4,IMBATIBLE CB Brand2 c4,MARCA_B,APP,Ciclo,CB,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-8.jpg
+4,PROD,5,IMBATIBLE PLATA- Brand2 c4,MARCA_B,WEB,Ciclo,CdC - Plata-,69cc5541-71fc-4989-8ab3-ca699765728b,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-9.jpg
+4,PROD,5,IMBATIBLE PLATA- Brand2 c4,MARCA_B,APP,Ciclo,CdC - Plata-,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-9.jpg
+4,PROD,5,IMBATIBLE ORO Brand2 c4 ,MARCA_B,WEB,Ciclo,CdC -Oro,6bb41c0d-d362-4222-8cec-2c9d4fe047b6,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-10.jpg
+4,PROD,5,IMBATIBLE ORO Brand2 c4 ,MARCA_B,APP,Ciclo,CdC - Oro,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-10.jpg
+4,PROD,5,IMBATIBLE ZAFIRO+ Brand2 c4,MARCA_B,WEB,Ciclo,CdC - Zafiro+,3dbc8a77-5448-4d76-b448-aff0a8db4e46,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-11.jpg
+4,PROD,5,IMBATIBLE ZAFIRO+ Brand2 c4,MARCA_B,APP,Ciclo,CdC - Zafiro+,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-11.jpg
+5,INF,1,FESTIVAL DE PERFUMERIA ,MARCA_A,WEB,Ciclo,Sin segmentaci������������������n,15e45ae8-7ca7-4204-8066-d3870812c564,https://gspstatic.empresa.com/STATIC/I
+5,INF,1,FESTIVAL DE PERFUMERIA ,MARCA_A,APP,Ciclo,Sin segmentaci������������������n,,https://gspstatic.empresa.com/STATIC/I
+5,INF,Carr,REGALO POR PEDIDO MARCA_A,MARCA_A,WEB,Ciclo,Sin segmentaci������������������n,,https://gspstatic.empresa.com/STATIC/I
+5,INF,Carr,REGALO POR PEDIDO MARCA_A,MARCA_A,APP,Ciclo,Sin segmentaci������������������n,,https://gspstatic.empresa.com/STATIC/I
+5,PROD,2,PROMO CB MARCA_A,MARCA_A,WEB,Ciclo,CB,0ba108f6-8575-447c-902e-346a0e67a8dd,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-3C5.jpg
+5,PROD,2,PROMO CB MARCA_A,MARCA_A,APP,Ciclo,CB,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-3C5.jpg
+5,PROD,3,PROMO IMBATIBLE ORO- MARCA_A,MARCA_A,WEB,Ciclo,CdC - Oro- ,51fb3034-d9ae-4221-a224-1854d053cbc2,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-4C5.jpg
+5,PROD,3,PROMO IMBATIBLE ORO- MARCA_A,MARCA_A,APP,Ciclo,CdC - Oro- ,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-4C05.jpg
+5,PROD,3,PROMO IMBATIBLE ZAFIRO+ MARCA_A,MARCA_A,WEB ,Ciclo,CdC - Zafiro+,7f5ed361-a4f6-4615-a205-c2c33639ef09,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-5C5.jpg
+5,PROD,3,PROMO IMBATIBLE ZAFIRO+ MARCA_A,MARCA_A,APP,Ciclo,CdC - Zafiro+,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-5C5.jpg
+5,PROD,4,KIT MANTENETE ACTIVA PLATA- MARCA_A,MARCA_A,WEB ,Ciclo,CdC - Plata-,e713473c-3732-4c30-993a-d60db7bfaa0c,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-6C5.jpg
+5,PROD,4,KIT MANTENETE ACTIVA PLATA- MARCA_A,MARCA_A,APP,Ciclo,CdC - Plata-,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-6C5.jpg
+5,INF,1,RELANZAMIENTO DE LABIALES MARCA_B,MARCA_B ,WEB,Ciclo,Sin segmentaci������������������n,d5431a8c-ca92-49dc-ab1c-f6129d3b9a4f,https://gspstatic.empresa.com/STATIC/I
+5,INF,1,RELANZAMIENTO DE LABIALES MARCA_B,MARCA_B,APP,Ciclo,Sin segmentaci������������������n,,https://gspstatic.empresa.com/STATIC/I
+5,INF,Carr,REGALO MARCA_B,MARCA_B,WEB,Ciclo,Sin segmentaci������������������n,,https://gspstatic.empresa.com/STATIC
+5,INF,Carr,REGALO MARCA_B,MARCA_B ,APP,Ciclo,Sin segmentaci������������������n,,https://gspstatic.empresa.com/STATIC
+5,PROD,2,PROMO IMBATIBLE CB MARCA_B,MARCA_B ,WEB,Ciclo,CB,1fd06894-a445-49cf-9345-54f1c8373b22,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-9C5.jpg
+5,PROD,2,PROMO IMBATIBLE CB MARCA_B,MARCA_B ,APP,Ciclo,CB,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-9C5.jpg
+5,PROD,3,PROMO IMBATIBLE PLATA- MARCA_B,MARCA_B ,WEB,Ciclo,CdC - Plata-,6d57d25b-4178-4276-9992-72f51f4a0a0b,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-10C5.jpg
+5,PROD,3,PROMO IMBATIBLE PLATA- MARCA_B,MARCA_B,APP,Ciclo,CdC - Plata-,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-10C5.jpg
+5,PROD,3,PROMO IMBATIBLE ORO MARCA_B,MARCA_B ,WEB ,Ciclo,CdC - Oro ,a82c9b73-e0fd-4bd5-ac79-d8c69eb864ee,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-11C5.jpg
+5,PROD,3,PROMO IMBATIBLE ORO MARCA_B,MARCA_B ,APP,Ciclo,CdC - Oro ,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-11C5.jpg
+5,PROD,3,PROMO IMBATIBLE ZAFIRO+ MARCA_B,MARCA_B ,WEB ,Ciclo,CdC - Zafiro+,6a26d849-bb93-409c-a25a-67eefb87d4b7,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-12C5.jpg
+5,PROD,3,PROMO IMBATIBLE ZAFIRO+ MARCA_B,MARCA_B ,APP,Ciclo,CdC - Zafiro+,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-12C5.jpg
+5,PROD,4,KIT MANTENETE ACTIVA PLATA- MARCA_B,MARCA_B,WEB,Ciclo,CdC - Plata-,f9c8fdf3-3b53-4e6a-8e6e-752c766257ff,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-web-13C5.jpg
+5,PROD,4,KIT MANTENETE ACTIVA PLATA- MARCA_B,MARCA_B,APP,Ciclo,CdC - Plata-,,https://gspstatic.empresa.com/STATIC/IOS/ARGENTINA/SGILIGHT/BANNER_HOME/banner-app-13C5.jpg
+5,INF,1,FESTIVAL DE PERFUMERIA MARCA_B,MARCA_B,WEB,Ciclo,Sin segmentaci������������������n,106ecc4e-d2ff-475b-8b57-22fdc442d388,https://gspstatic.empresa.com/STATIC/
+5,INF,1,FESTIVAL DE PERFUMERIA MARCA_B ,MARCA_B ,APP,Ciclo,Sin segmentaci������������������n,,https://gspstatic.empresa.com/STATIC/
